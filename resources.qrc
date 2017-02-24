@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/testLADM">
+        <file>resources/icon14.png</file>
+		<file>resources/Z_Happy1.png</file>
+    </qresource>
+</RCC>

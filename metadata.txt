@@ -1,0 +1,8 @@
+[general]
+name=testLADM
+qgisMinimumVersion=2.0
+description=Herramienta para pruebas plugin LADM
+version=0.1
+author=Sergio Ramírez
+email=sergio.ramirez@incige.com
+about=Pruebas LADM
